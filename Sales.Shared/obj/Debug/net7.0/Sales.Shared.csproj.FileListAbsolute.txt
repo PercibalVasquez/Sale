@@ -1,0 +1,12 @@
+/home/murdo/RiderProjects/Sales/Sales.Shared/bin/Debug/net7.0/Sales.Shared.deps.json
+/home/murdo/RiderProjects/Sales/Sales.Shared/bin/Debug/net7.0/Sales.Shared.dll
+/home/murdo/RiderProjects/Sales/Sales.Shared/bin/Debug/net7.0/Sales.Shared.pdb
+/home/murdo/RiderProjects/Sales/Sales.Shared/obj/Debug/net7.0/Sales.Shared.csproj.AssemblyReference.cache
+/home/murdo/RiderProjects/Sales/Sales.Shared/obj/Debug/net7.0/Sales.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/murdo/RiderProjects/Sales/Sales.Shared/obj/Debug/net7.0/Sales.Shared.AssemblyInfoInputs.cache
+/home/murdo/RiderProjects/Sales/Sales.Shared/obj/Debug/net7.0/Sales.Shared.AssemblyInfo.cs
+/home/murdo/RiderProjects/Sales/Sales.Shared/obj/Debug/net7.0/Sales.Shared.csproj.CoreCompileInputs.cache
+/home/murdo/RiderProjects/Sales/Sales.Shared/obj/Debug/net7.0/Sales.Shared.dll
+/home/murdo/RiderProjects/Sales/Sales.Shared/obj/Debug/net7.0/refint/Sales.Shared.dll
+/home/murdo/RiderProjects/Sales/Sales.Shared/obj/Debug/net7.0/Sales.Shared.pdb
+/home/murdo/RiderProjects/Sales/Sales.Shared/obj/Debug/net7.0/ref/Sales.Shared.dll
